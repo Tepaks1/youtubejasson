@@ -26,16 +26,3 @@ Igloo adalah aplikasi berbasis web modern yang dirancang untuk memberikan pengal
 
 ---
 
-## 🎨 Tampilan Aplikasi
-
-Berikut adalah tangkapan layar dari tampilan aplikasi:
-
-![Tangkapan Layar Igloo](https://example.com/screenshot.png) <!-- Ganti dengan URL gambar tangkapan layar aplikasi -->
-
----
-
-## 📖 Cara Menggunakan
-
-1. **Clone Repository**:
-   ```bash
-   git clone https://github.com/username/igloo.git
